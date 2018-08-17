@@ -1,27 +1,27 @@
 [submodule "auth"]
 	path = auth
-	url = git@github.com:MadhaviLosetty/pcs-auth-dotnet.git
+	url = https://github.com/MadhaviLosetty/pcs-auth-dotnet.git
 [submodule "cli"]
 	path = cli
-	url = git@github.com:MadhaviLosetty/pcs-cli.git
+	url = https://github.com/MadhaviLosetty/pcs-cli.git
 [submodule "asa-manager"]
 	path = asa-manager
-	url = git@github.com:MadhaviLosetty/asa-manager-dotnet.git
+	url = https://github.com/MadhaviLosetty/asa-manager-dotnet.git
 [submodule "storage-adapter"]
 	path = storage-adapter
-	url = git@github.com:MadhaviLosetty/pcs-storage-adapter-dotnet.git
+	url = https://github.com/MadhaviLosetty/pcs-storage-adapter-dotnet.git
 [submodule "config"]
 	path = config
-	url = git@github.com:MadhaviLosetty/pcs-config-dotnet.git
+	url = https://github.com/MadhaviLosetty/pcs-config-dotnet.git
 [submodule "iothub-manager"]
 	path = iothub-manager
-	url = git@github.com:MadhaviLosetty/iothub-manager-dotnet.git
+	url = https://github.com/MadhaviLosetty/iothub-manager-dotnet.git
 [submodule "webui"]
 	path = webui
-	url = git@github.com:MadhaviLosetty/azure-iot-pcs-remote-monitoring-webui.git
+	url = https://github.com/MadhaviLosetty/azure-iot-pcs-remote-monitoring-webui.git
 [submodule "telemetry"]
 	path = telemetry
-	url = git@github.com:MadhaviLosetty/device-telemetry-dotnet.git
+	url = https://github.com/MadhaviLosetty/device-telemetry-dotnet.git
 [submodule "device-simulation"]
 	path = device-simulation
-	url = git@github.com:MadhaviLosetty/device-simulation-dotnet.git
+	url = https://github.com/MadhaviLosetty/device-simulation-dotnet.git
